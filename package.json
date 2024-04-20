@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietgmetrix/voluptatibus-soluta-mollitia-culpa",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietgmetrix/voluptatibus-soluta-mollitia-culpa.git"
   },
   "dependencies": {
+    "@saovietproject/voluptas-doloremque-nostrum-facere": "^1.0.0"
   }
 }
